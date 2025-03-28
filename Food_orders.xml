@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<foodorders>
+    <foodorders>
+        <foodorder>
+            <id>0</id>
+            <tableNumber>21</tableNumber>
+            <date>2025-03-25 20:08:03</date>
+            <status>Paid</status>
+            <baseSum>10.5</baseSum>
+            <totalSum>11.45</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>9</id>
+                    <name>Orange Juice</name>
+                    <price>3.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>9</id>
+                    <name>Orange Juice</name>
+                    <price>3.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>9</id>
+                    <name>Orange Juice</name>
+                    <price>3.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>1</id>
+            <tableNumber>30</tableNumber>
+            <date>2025-03-25 20:13:04</date>
+            <status>Paid</status>
+            <baseSum>5.0</baseSum>
+            <totalSum>5.45</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>8</id>
+                    <name>Sprite</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>7</id>
+                    <name>Coca-Cola</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>2</id>
+            <tableNumber>27</tableNumber>
+            <date>2025-03-25 20:13:58</date>
+            <status>Finished</status>
+            <baseSum>26.45</baseSum>
+            <totalSum>28.83</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>6</id>
+                    <name>Salmon Soup</name>
+                    <price>12.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>5</id>
+                    <name>Creamy Tomato and Basil Soup</name>
+                    <price>7.7</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>4</id>
+                    <name>Borch Soup</name>
+                    <price>6.25</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>3</id>
+            <tableNumber>23</tableNumber>
+            <date>2025-03-25 20:17:54</date>
+            <status>Paid</status>
+            <baseSum>45.0</baseSum>
+            <totalSum>49.05</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>1</id>
+                    <name>Chicken breast</name>
+                    <price>14.25</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>1</id>
+                    <name>Chicken breast</name>
+                    <price>14.25</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>3</id>
+                    <name>Salmon Steak</name>
+                    <price>16.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>4</id>
+            <tableNumber>30</tableNumber>
+            <date>2025-03-25 20:32:09</date>
+            <status>Paid</status>
+            <baseSum>12.5</baseSum>
+            <totalSum>13.63</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>7</id>
+                    <name>Coca-Cola</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>7</id>
+                    <name>Coca-Cola</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>7</id>
+                    <name>Coca-Cola</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>7</id>
+                    <name>Coca-Cola</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>7</id>
+                    <name>Coca-Cola</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>5</id>
+            <tableNumber>25</tableNumber>
+            <date>2025-03-25 20:34:47</date>
+            <status>Paid</status>
+            <baseSum>10.0</baseSum>
+            <totalSum>11.5</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>8</id>
+                    <name>Sprite</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>7</id>
+                    <name>Coca-Cola</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>10</id>
+                    <name>Beer</name>
+                    <price>5.0</price>
+                    <PVM>0.21</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>6</id>
+            <tableNumber>23</tableNumber>
+            <date>2025-03-25 20:38:06</date>
+            <status>Paid</status>
+            <baseSum>5.0</baseSum>
+            <totalSum>5.45</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>8</id>
+                    <name>Sprite</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>7</id>
+                    <name>Coca-Cola</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>7</id>
+            <tableNumber>29</tableNumber>
+            <date>2025-03-26 18:21:58</date>
+            <status>Paid</status>
+            <baseSum>43.5</baseSum>
+            <totalSum>47.41</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>2</id>
+                    <name>Beef Steak</name>
+                    <price>32.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>13</id>
+                    <name>Mozzarella Sticks</name>
+                    <price>5.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>13</id>
+                    <name>Mozzarella Sticks</name>
+                    <price>5.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>8</id>
+            <tableNumber>27</tableNumber>
+            <date>2025-03-26 18:22:33</date>
+            <status>Paid</status>
+            <baseSum>23.1</baseSum>
+            <totalSum>25.18</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>5</id>
+                    <name>Creamy Tomato and Basil Soup</name>
+                    <price>7.7</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>5</id>
+                    <name>Creamy Tomato and Basil Soup</name>
+                    <price>7.7</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>5</id>
+                    <name>Creamy Tomato and Basil Soup</name>
+                    <price>7.7</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>9</id>
+            <tableNumber>16</tableNumber>
+            <date>2025-03-26 18:24:38</date>
+            <status>Paid</status>
+            <baseSum>20.0</baseSum>
+            <totalSum>24.2</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>10</id>
+                    <name>Beer</name>
+                    <price>5.0</price>
+                    <PVM>0.21</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>10</id>
+                    <name>Beer</name>
+                    <price>5.0</price>
+                    <PVM>0.21</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>10</id>
+                    <name>Beer</name>
+                    <price>5.0</price>
+                    <PVM>0.21</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>10</id>
+                    <name>Beer</name>
+                    <price>5.0</price>
+                    <PVM>0.21</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>10</id>
+            <tableNumber>27</tableNumber>
+            <date>2025-03-26 18:35:41</date>
+            <status>Paid</status>
+            <baseSum>18.75</baseSum>
+            <totalSum>20.44</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>4</id>
+                    <name>Borch Soup</name>
+                    <price>6.25</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>6</id>
+                    <name>Salmon Soup</name>
+                    <price>12.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>11</id>
+            <tableNumber>-1</tableNumber>
+            <date>2025-03-27 12:54:40</date>
+            <status>Paid</status>
+            <baseSum>8.5</baseSum>
+            <totalSum>9.27</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>9</id>
+                    <name>Orange Juice</name>
+                    <price>3.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>8</id>
+                    <name>Sprite</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>7</id>
+                    <name>Coca-Cola</name>
+                    <price>2.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>12</id>
+            <tableNumber>7</tableNumber>
+            <date>2025-03-27 12:59:54</date>
+            <status>Paid</status>
+            <baseSum>26.45</baseSum>
+            <totalSum>28.83</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>6</id>
+                    <name>Salmon Soup</name>
+                    <price>12.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>5</id>
+                    <name>Creamy Tomato and Basil Soup</name>
+                    <price>7.7</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>4</id>
+                    <name>Borch Soup</name>
+                    <price>6.25</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+        <foodorder>
+            <id>13</id>
+            <tableNumber>26</tableNumber>
+            <date>2025-03-27 13:07:39</date>
+            <status>Paid</status>
+            <baseSum>65.0</baseSum>
+            <totalSum>70.85</totalSum>
+            <fooditems>
+                <fooditem>
+                    <id>2</id>
+                    <name>Beef Steak</name>
+                    <price>32.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+                <fooditem>
+                    <id>2</id>
+                    <name>Beef Steak</name>
+                    <price>32.5</price>
+                    <PVM>0.09</PVM>
+                </fooditem>
+            </fooditems>
+        </foodorder>
+    </foodorders>
+</foodorders>
